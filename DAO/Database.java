@@ -10,7 +10,7 @@ public class Database {
     public static final String USER = "root";
     public static final String PASSWORD = "";
 
-    public static Connection getConnection() {
+    public static Connection Koneksi() {
         Connection conn = null;
         try {
             conn = DriverManager.getConnection(URL, USER, PASSWORD);
