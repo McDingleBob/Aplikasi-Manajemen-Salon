@@ -3,7 +3,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.control.Label?>
 
-<AnchorPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.LoginController">
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="Pengendali.PengendaliLogin">
     <children>
         <Label text="Login Page" layoutX="100.0" layoutY="100.0" />
     </children>
